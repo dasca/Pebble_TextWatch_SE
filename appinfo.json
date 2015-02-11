@@ -1,0 +1,30 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Olivella",
+    "longName": "TextWatch SE",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/unispace.ttf",
+                "name": "NORMAL_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/unispace bold.ttf",
+                "name": "BOLD_36",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "TWSE",
+    "uuid": "1ac6d39e-3d3a-4bea-8bd5-4bca15796c84",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
